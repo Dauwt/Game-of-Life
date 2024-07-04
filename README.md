@@ -46,4 +46,6 @@ In this case I specifically made this project because I was inspired by the way 
 
 If you want to make **more features** to this code I recommend trying to make an mostly infinite grid, for this you would really need to optimize my code, because this code was made to be small and easy to understand! You could also make tools to move the camera, zoom in and zoom out!
 
-### **Made by Dauwt©**
+### **Made by Dauwt**
+
+### Copyright (c) 2024 Dauwt
